@@ -10,7 +10,7 @@
 <p align = center> 
   <a href = "linkedin.com/in/maxime-braud">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-    <a href = "https://github.com/KodiakFR/KodiakFR">
+   <a href = "https://github.com/KodiakFR/KodiakFR">
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>  
   <a href = "https://kodiakfr.github.io/my_personal_website/#">
   <img src="https://img.shields.io/badge/My%20Web%20Site-FE7A16?style=for-the-badge&logoColor=white"/></a>  
